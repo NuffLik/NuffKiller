@@ -29,7 +29,7 @@ pip install -r requirements.txt
 Запуск программы:
 
 ```bash
-python ss.py
+python NuffLikker.py
 ```
 
 Следуйте интерактивным инструкциям в терминале:
